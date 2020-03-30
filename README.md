@@ -3,6 +3,7 @@ Smallpipe is docker container/image that is focused on running simple CI/CD pipe
 
 # Fatures/TODO list
  * Email notifications (build failed, tests in progress, deploy succeded, git polling failed)
+ * Ability to define *smallpipe* as linked container in docker-compose for ie. react projects
  * Git polling (github/gitlab)
    * with ssh keys?
    * cron based
