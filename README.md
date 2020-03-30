@@ -1,5 +1,5 @@
 # docker-smallpipe
-Smallpipe is docker container/image that is focused on small CI/CD pipelines directly on host. It is targetted at small companies, startups, development and staging enviroments.
+Smallpipe is docker container/image that is focused on running simple CI/CD pipelines directly on Your docker host. It is targetted at small companies, startups, development and staging enviroments.
 
 # Fatures/TODO list
  * Email notifications (build failed, tests in progress, deploy succeded, git polling failed)
